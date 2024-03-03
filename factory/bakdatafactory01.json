@@ -1,0 +1,9 @@
+{
+	"name": "bakdatafactory01",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "cbc3b1da-ba8a-4441-8709-c479bb6c002b",
+		"tenantId": "8e9f3a45-f5bc-4f2a-a2cb-e610a843e192"
+	}
+}
